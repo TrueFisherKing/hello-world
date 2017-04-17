@@ -1,2 +1,3 @@
 # hello-world
-Finally
+Finally.
+I've finally joined github
